@@ -1,0 +1,501 @@
+Diamond,carat,cut,color,clarity,depth,table,x,y,z
+Diamond 1,0.32,Premium,J,VS2,61.9,59.0,4.35,4.38,2.7
+Diamond 2,0.31,Very Good,D,SI1,63.0,55.0,4.32,4.34,
+Diamond 3,1.6,Ideal,F,VS2,62.0,55.0,,7.54,4.66
+Diamond 4,0.31,Good,,SI2,63.1,54.0,,4.38,2.75
+Diamond 5,0.3,Ideal,G,IF,61.2,57.0,4.35,4.38,
+Diamond 6,0.52,Ideal,E,VS2,61.1,55.0,5.27,5.2,3.2
+Diamond 7,,Very Good,H,SI2,57.0,63.0,6.09,6.18,3.5
+Diamond 8,0.4,Ideal,G,VVS2,62.4,56.0,4.74,4.72,2.95
+Diamond 9,0.33,Ideal,D,VVS2,61.1,56.0,,4.44,
+Diamond 10,1.72,Ideal,J,SI1,62.0,57.0,7.66,7.62,4.74
+Diamond 11,0.51,Very Good,J,VS2,61.9,61.0,5.09,5.12,3.16
+Diamond 12,0.33,Ideal,F,VVS2,61.9,56.0,4.42,4.46,2.75
+Diamond 13,1.14,Ideal,H,SI1,61.6,57.0,6.68,6.73,
+Diamond 14,0.55,Good,E,VS2,59.8,61.0,5.29,5.32,3.17
+Diamond 15,,Very Good,G,VS1,,58.0,6.5,6.55,4.03
+Diamond 16,0.35,Ideal,G,VVS2,61.8,55.0,4.53,4.56,2.81
+Diamond 17,1.0,Premium,D,SI1,61.3,61.0,6.52,6.39,3.96
+Diamond 18,0.31,Ideal,E,VS2,61.9,55.0,4.34,4.38,2.7
+Diamond 19,0.51,Very Good,G,VVS2,62.9,57.0,5.09,5.12,3.21
+Diamond 20,1.0,Premium,,SI2,62.7,58.0,6.32,6.28,3.95
+Diamond 21,1.32,Fair,F,VVS1,,66.0,7.31,,4.23
+Diamond 22,0.36,Good,E,SI2,63.7,54.0,4.55,4.52,2.89
+Diamond 23,0.57,Good,,SI1,63.3,56.0,5.27,5.29,3.34
+Diamond 24,1.22,Very Good,G,SI1,63.4,57.0,6.74,6.77,4.28
+Diamond 25,0.8,Very Good,F,SI2,61.0,57.0,6.01,6.03,3.67
+Diamond 26,0.92,Ideal,J,VS1,62.0,55.0,6.24,6.27,3.88
+Diamond 27,0.95,Ideal,F,SI1,61.7,56.0,6.31,6.34,3.9
+Diamond 28,0.51,Very Good,D,SI2,61.5,59.0,5.07,5.14,3.14
+Diamond 29,0.74,Premium,F,SI1,58.8,61.0,5.88,5.82,3.44
+Diamond 30,0.3,,E,VS2,62.2,60.0,4.24,4.28,2.65
+Diamond 31,1.05,Premium,G,SI1,59.1,57.0,6.73,6.63,3.95
+Diamond 32,0.3,Ideal,E,VS2,61.0,56.0,4.36,4.33,2.65
+Diamond 33,1.39,Good,F,SI2,63.8,55.0,7.05,7.08,4.51
+Diamond 34,1.21,Good,G,VS2,63.7,59.0,6.59,6.67,4.22
+Diamond 35,0.55,Ideal,F,VS1,,55.0,5.28,5.3,3.27
+Diamond 36,,Premium,E,SI1,60.5,61.0,,6.19,3.76
+Diamond 37,0.51,Premium,J,VS2,61.5,58.0,5.14,5.1,3.15
+Diamond 38,1.32,Very Good,I,SI1,62.1,57.0,6.99,7.09,4.37
+Diamond 39,0.75,Ideal,F,VS2,62.1,57.0,5.8,5.82,3.61
+Diamond 40,0.4,Very Good,E,VVS2,63.0,55.0,4.72,4.74,2.98
+Diamond 41,0.4,Premium,H,SI1,62.1,62.0,4.73,4.7,2.93
+Diamond 42,1.03,Ideal,H,SI2,60.6,56.0,6.53,6.63,3.99
+Diamond 43,0.28,Very Good,E,VVS2,60.2,58.0,4.24,4.27,2.56
+Diamond 44,0.31,Ideal,I,IF,62.2,54.0,,4.36,
+Diamond 45,0.4,,E,VS2,62.3,56.0,4.75,4.72,2.95
+Diamond 46,0.3,Ideal,G,VS1,62.9,57.0,4.31,4.28,2.7
+Diamond 47,0.41,Ideal,G,VS1,60.8,,4.79,4.82,2.92
+Diamond 48,0.34,Ideal,G,VS2,62.1,,4.49,4.46,2.78
+Diamond 49,0.42,Ideal,D,VVS2,62.1,55.0,,4.79,2.98
+Diamond 50,0.66,Very Good,F,SI2,61.6,54.0,5.62,5.64,3.47
+Diamond 51,0.51,Ideal,G,VVS2,61.5,57.0,5.13,,3.17
+Diamond 52,1.0,Premium,G,VVS2,61.6,61.0,6.38,6.35,3.92
+Diamond 53,0.91,Premium,H,VS2,62.5,59.0,6.19,6.09,3.84
+Diamond 54,0.32,Premium,I,VVS2,61.9,59.0,4.35,4.38,2.7
+Diamond 55,0.31,Ideal,D,VS2,61.2,55.0,4.38,,2.67
+Diamond 56,0.33,Very Good,F,VS2,63.2,56.0,4.41,4.39,
+Diamond 57,0.36,Ideal,E,VS1,61.6,57.0,4.54,4.58,2.81
+Diamond 58,1.11,Premium,J,SI1,59.5,58.0,6.89,6.77,4.07
+Diamond 59,0.3,Ideal,F,VS2,61.6,57.0,4.32,4.28,
+Diamond 60,0.3,Ideal,F,VS1,61.5,55.0,4.31,4.34,2.66
+Diamond 61,1.06,Ideal,I,SI2,61.8,57.0,6.57,6.6,4.07
+Diamond 62,1.5,Premium,J,SI1,61.2,61.0,7.43,,4.53
+Diamond 63,2.01,,F,SI2,62.4,,8.08,8.05,5.03
+Diamond 64,1.01,Ideal,G,SI2,62.1,57.0,6.48,6.44,4.01
+Diamond 65,1.03,Ideal,F,VVS2,62.4,55.6,,6.49,4.02
+Diamond 66,0.3,Ideal,E,IF,61.1,57.0,4.31,4.33,2.64
+Diamond 67,0.71,Good,E,SI1,63.1,59.0,5.62,5.75,3.59
+Diamond 68,0.51,Premium,F,SI2,58.1,59.0,5.26,5.24,3.05
+Diamond 69,0.35,Premium,F,VS2,,60.0,4.51,4.45,2.78
+Diamond 70,0.43,Very Good,G,VS2,59.1,60.0,4.88,4.93,2.9
+Diamond 71,0.39,Premium,F,VS1,62.0,56.0,4.72,4.64,2.9
+Diamond 72,0.3,Very Good,G,SI1,59.7,60.0,4.35,4.39,2.61
+Diamond 73,0.65,Very Good,H,VVS1,61.6,58.0,5.57,5.62,3.42
+Diamond 74,0.92,Very Good,I,SI1,63.7,58.0,6.12,6.18,3.92
+Diamond 75,0.36,Ideal,D,SI2,62.0,56.0,4.56,4.6,2.84
+Diamond 76,0.85,Fair,H,I1,61.0,,6.2,6.0,3.73
+Diamond 77,0.42,Ideal,D,VS2,62.1,54.0,4.83,4.8,2.99
+Diamond 78,0.23,Very Good,E,VVS2,61.8,58.0,3.92,,2.43
+Diamond 79,1.02,Good,E,,64.2,59.0,6.26,6.2,4.0
+Diamond 80,0.96,Ideal,F,I1,60.7,55.0,6.37,6.41,3.88
+Diamond 81,0.37,Ideal,E,,61.8,54.0,4.61,4.64,2.86
+Diamond 82,0.33,Ideal,D,VS2,60.9,55.0,,4.46,2.73
+Diamond 83,0.4,Premium,G,SI1,62.0,59.0,4.71,4.74,2.93
+Diamond 84,1.01,Ideal,I,I1,61.5,57.0,6.45,,3.97
+Diamond 85,1.23,Very Good,D,SI2,62.3,58.0,6.78,6.81,4.23
+Diamond 86,1.51,Very Good,D,SI2,63.3,,7.25,7.28,4.6
+Diamond 87,0.31,Premium,G,VS1,58.2,61.0,4.45,4.42,
+Diamond 88,1.08,Premium,G,SI2,60.3,58.0,6.72,6.65,4.03
+Diamond 89,1.21,Good,I,,62.7,59.0,6.63,6.71,4.18
+Diamond 90,0.41,Premium,G,VVS1,60.0,59.0,4.84,4.83,2.9
+Diamond 91,0.55,Ideal,F,SI1,61.7,56.0,5.3,5.26,
+Diamond 92,0.5,Good,G,VS1,61.9,61.5,5.03,5.04,3.12
+Diamond 93,0.34,Ideal,E,VS1,61.8,57.0,4.5,4.47,2.77
+Diamond 94,1.01,Ideal,E,VS2,61.4,57.0,6.44,6.5,3.97
+Diamond 95,2.03,Ideal,I,VS2,62.7,57.0,8.05,8.02,5.04
+Diamond 96,2.27,Good,J,VS1,59.3,61.0,8.47,8.55,5.05
+Diamond 97,0.9,Very Good,F,SI2,62.0,59.0,6.2,6.1,3.81
+Diamond 98,1.0,Very Good,H,,62.3,60.0,6.34,6.38,3.96
+Diamond 99,0.55,Ideal,F,VVS2,62.4,55.0,5.24,5.28,3.28
+Diamond 100,0.4,Ideal,J,IF,62.5,56.0,4.7,4.74,2.95
+Diamond 101,0.4,Ideal,E,VVS2,62.5,54.0,4.75,4.76,2.97
+Diamond 102,1.0,Very Good,F,VS2,62.9,55.0,6.34,6.38,4.0
+Diamond 103,1.0,Premium,E,SI1,61.9,60.0,6.37,6.46,3.97
+Diamond 104,1.78,Ideal,F,VS2,60.9,56.0,7.85,7.88,4.79
+Diamond 105,0.32,Premium,E,VS1,61.3,58.0,4.36,,2.68
+Diamond 106,0.32,Premium,E,SI2,59.7,60.0,4.43,,2.65
+Diamond 107,0.71,Very Good,I,VVS2,61.9,58.0,5.72,5.75,3.55
+Diamond 108,0.93,Premium,E,I1,62.3,60.0,6.2,6.23,3.87
+Diamond 109,2.71,Premium,E,SI2,60.4,,9.13,9.03,
+Diamond 110,1.15,Ideal,J,SI1,61.8,57.0,6.73,6.67,4.14
+Diamond 111,0.7,Very Good,E,VS2,61.7,60.0,5.67,5.7,3.51
+Diamond 112,0.92,Premium,F,SI1,62.6,59.0,6.19,,3.89
+Diamond 113,0.91,Ideal,E,SI2,62.4,57.0,6.17,6.21,3.86
+Diamond 114,1.6,Ideal,H,SI2,62.1,56.0,7.43,7.51,4.64
+Diamond 115,0.53,Ideal,H,SI1,61.5,,5.21,5.26,3.22
+Diamond 116,0.84,Premium,E,VS1,59.7,59.0,6.16,6.13,3.67
+Diamond 117,0.3,Ideal,H,VS1,62.1,54.0,4.32,4.35,2.69
+Diamond 118,0.3,Ideal,F,SI1,62.2,54.2,4.31,4.34,2.69
+Diamond 119,0.72,Good,F,VS2,61.1,60.0,5.72,5.76,3.51
+Diamond 120,2.44,Premium,I,SI2,61.4,56.0,8.74,8.7,5.35
+Diamond 121,1.09,Very Good,F,VS2,61.4,54.0,,6.7,4.1
+Diamond 122,1.0,Good,G,VS2,58.6,65.0,6.61,6.53,3.85
+Diamond 123,0.32,Premium,H,VS1,61.3,60.0,4.38,4.33,2.67
+Diamond 124,1.03,Premium,E,SI2,58.8,62.0,6.58,6.51,3.85
+Diamond 125,0.83,Ideal,E,VS1,62.2,56.0,5.99,,3.74
+Diamond 126,0.3,Ideal,H,VS1,62.5,56.0,4.27,4.24,2.66
+Diamond 127,1.21,,F,SI2,61.8,57.0,6.87,6.82,4.23
+Diamond 128,0.58,Very Good,J,VS2,59.5,62.0,5.41,5.44,
+Diamond 129,0.32,Ideal,G,VVS2,,55.0,4.4,4.44,2.74
+Diamond 130,,Very Good,D,SI2,63.2,56.0,5.05,5.01,3.18
+Diamond 131,1.07,Premium,G,SI1,63.0,55.0,6.55,6.47,4.1
+Diamond 132,0.33,Ideal,G,VS1,61.9,55.0,4.41,4.44,2.74
+Diamond 133,0.42,Ideal,H,VS1,61.8,55.0,4.82,4.85,
+Diamond 134,0.31,Ideal,I,SI1,62.1,54.0,4.37,,2.72
+Diamond 135,0.38,Very Good,H,VVS1,63.3,58.0,4.62,4.57,2.91
+Diamond 136,1.55,Very Good,I,SI1,62.0,62.0,7.33,7.47,4.59
+Diamond 137,1.08,Good,J,VS2,,58.0,6.46,6.44,4.15
+Diamond 138,0.9,Good,G,,,63.0,6.06,6.13,3.78
+Diamond 139,1.12,Ideal,E,,61.9,56.0,,6.68,4.13
+Diamond 140,0.31,Premium,G,SI1,60.7,60.0,4.36,4.34,2.64
+Diamond 141,0.33,Premium,G,VS2,60.0,58.0,4.47,4.49,2.69
+Diamond 142,0.59,Very Good,G,VS2,61.5,59.0,,5.41,3.3
+Diamond 143,0.91,Good,E,SI1,60.2,60.0,6.17,6.26,3.74
+Diamond 144,1.0,Premium,G,SI2,59.1,59.0,6.54,6.5,3.85
+Diamond 145,0.72,Very Good,H,SI1,63.0,58.0,5.68,5.71,3.59
+Diamond 146,0.3,Good,G,VS2,63.1,57.0,4.24,4.28,2.69
+Diamond 147,0.7,Very Good,G,SI1,60.7,58.0,5.7,5.73,3.47
+Diamond 148,0.71,Premium,E,,61.8,59.0,5.75,5.7,3.54
+Diamond 149,1.5,Very Good,F,,58.5,55.0,7.51,7.56,4.41
+Diamond 150,0.51,Ideal,H,VVS2,60.1,57.0,5.19,5.22,3.12
+Diamond 151,0.4,Ideal,D,VVS1,61.5,55.0,4.78,4.82,2.95
+Diamond 152,0.54,Ideal,H,VVS1,61.2,,5.25,5.21,3.2
+Diamond 153,1.43,Premium,F,SI1,61.5,58.0,7.27,7.22,4.45
+Diamond 154,0.31,Ideal,D,VS2,61.9,,4.38,4.34,2.7
+Diamond 155,1.01,,F,VS2,,59.0,6.39,6.46,3.92
+Diamond 156,0.41,Very Good,E,SI1,61.5,61.0,,4.78,2.93
+Diamond 157,0.27,Ideal,E,VS1,61.6,57.0,4.12,4.16,2.55
+Diamond 158,0.7,Ideal,E,SI1,61.4,57.0,5.76,5.7,3.52
+Diamond 159,1.55,Premium,G,SI1,59.8,59.0,7.47,7.45,4.46
+Diamond 160,0.83,Ideal,F,VS1,62.3,56.4,5.97,6.02,3.73
+Diamond 161,1.61,Good,G,VS2,63.8,58.0,7.43,7.36,4.72
+Diamond 162,0.3,Ideal,F,IF,62.3,53.0,4.34,4.36,2.71
+Diamond 163,,Premium,D,VS1,60.8,60.0,4.84,4.87,2.95
+Diamond 164,1.02,Premium,D,VS2,61.5,58.0,6.51,6.44,3.98
+Diamond 165,0.52,Premium,F,VS2,61.8,59.0,,5.11,3.17
+Diamond 166,0.91,Fair,H,SI1,64.8,57.0,6.12,6.07,3.95
+Diamond 167,0.72,Ideal,F,VS1,62.4,55.0,5.78,5.75,3.6
+Diamond 168,0.73,Premium,F,VS1,,61.0,5.79,5.75,3.5
+Diamond 169,0.51,Good,E,VS2,63.1,59.0,5.04,5.07,3.19
+Diamond 170,0.41,Very Good,I,VVS1,63.1,58.0,4.68,4.74,2.97
+Diamond 171,0.37,Ideal,F,VVS1,61.5,56.0,4.59,4.61,2.83
+Diamond 172,0.32,Good,I,VS1,63.2,54.0,4.38,4.42,2.78
+Diamond 173,0.82,Very Good,F,SI2,59.7,,6.12,6.14,3.66
+Diamond 174,,Premium,G,VS2,60.3,60.0,6.89,,4.14
+Diamond 175,2.0,Good,H,VS2,63.8,59.0,7.88,8.01,5.07
+Diamond 176,1.04,Ideal,I,SI2,61.9,56.0,6.51,6.45,4.02
+Diamond 177,0.3,Ideal,F,VVS1,61.8,54.0,4.34,4.36,2.69
+Diamond 178,1.79,Ideal,J,VS2,61.8,56.0,7.74,7.85,4.82
+Diamond 179,0.71,Premium,F,SI1,59.0,61.0,5.88,5.84,3.46
+Diamond 180,0.31,Ideal,D,VVS2,61.1,,4.38,4.39,2.68
+Diamond 181,1.21,Ideal,G,VVS1,61.5,56.0,6.83,6.89,
+Diamond 182,1.61,,I,VS2,61.7,56.0,7.52,7.62,4.67
+Diamond 183,0.92,Ideal,H,VVS1,62.1,54.0,6.26,6.23,3.88
+Diamond 184,0.3,Ideal,D,VVS1,62.1,56.0,4.32,4.31,2.68
+Diamond 185,0.3,Ideal,E,VS1,62.5,54.0,4.27,4.32,2.69
+Diamond 186,0.3,Very Good,J,SI1,62.7,59.0,4.21,4.27,2.66
+Diamond 187,0.73,Premium,F,,62.7,58.0,5.76,5.7,3.59
+Diamond 188,0.71,Premium,H,SI2,61.5,60.0,5.72,,3.51
+Diamond 189,0.65,Ideal,G,VS1,60.6,60.0,5.58,5.61,3.39
+Diamond 190,,Very Good,I,VS1,62.4,56.0,6.78,6.74,4.22
+Diamond 191,0.62,Ideal,I,,61.9,54.0,5.48,5.5,3.4
+Diamond 192,1.0,Very Good,F,SI2,61.7,58.0,6.32,6.36,
+Diamond 193,0.34,Ideal,G,VS2,61.5,55.0,4.5,4.47,2.76
+Diamond 194,0.48,Fair,F,SI1,56.4,59.0,,5.26,2.97
+Diamond 195,0.37,Ideal,F,VS1,61.1,56.0,4.64,4.65,2.84
+Diamond 196,1.66,Premium,G,SI2,59.1,58.0,7.77,7.69,4.57
+Diamond 197,1.02,Premium,D,,62.3,59.0,6.38,6.42,3.99
+Diamond 198,0.39,Ideal,J,SI1,61.0,56.0,4.71,4.73,2.88
+Diamond 199,1.73,Very Good,H,VS2,61.7,56.0,7.64,7.7,4.73
+Diamond 200,1.11,Premium,H,VS2,61.7,58.0,6.64,6.69,4.11
+Diamond 201,2.01,Ideal,I,SI1,62.4,54.0,8.04,7.96,5.0
+Diamond 202,1.02,Ideal,F,VS2,62.3,56.0,,6.54,4.0
+Diamond 203,0.58,Ideal,D,VS2,61.5,56.0,5.37,5.4,3.31
+Diamond 204,0.5,Very Good,G,VVS2,60.6,66.0,5.06,5.1,3.08
+Diamond 205,0.56,Ideal,F,VVS2,62.2,54.3,5.26,5.29,3.28
+Diamond 206,0.36,Good,H,,63.6,57.0,,4.49,2.87
+Diamond 207,0.31,Good,E,SI1,63.7,57.0,4.31,,2.74
+Diamond 208,0.7,Good,F,SI1,64.3,63.0,5.55,5.58,3.58
+Diamond 209,1.86,Very Good,H,SI1,62.6,58.0,7.77,,4.88
+Diamond 210,1.26,Premium,E,VS1,60.7,58.0,7.02,7.04,4.27
+Diamond 211,1.0,Ideal,D,IF,60.7,57.0,6.44,6.48,3.92
+Diamond 212,,Very Good,I,VS1,62.5,59.0,5.1,5.14,3.2
+Diamond 213,0.38,Very Good,F,VS2,60.9,56.0,4.67,4.72,
+Diamond 214,0.4,Ideal,E,VS2,62.4,55.0,4.71,4.74,2.95
+Diamond 215,0.52,Very Good,E,VS2,62.3,57.0,5.1,5.17,3.2
+Diamond 216,0.4,Very Good,G,SI1,62.8,60.0,4.66,4.7,2.94
+Diamond 217,1.04,Very Good,F,SI2,62.8,55.0,6.41,6.48,4.05
+Diamond 218,0.33,Ideal,I,VS1,61.7,55.0,4.44,4.47,2.75
+Diamond 219,2.02,Good,E,SI2,58.8,61.0,8.21,8.25,4.84
+Diamond 220,0.25,Very Good,,VVS2,60.1,57.0,4.1,4.13,2.47
+Diamond 221,0.3,Premium,G,VVS2,62.0,58.0,4.26,4.29,2.65
+Diamond 222,0.71,Very Good,J,VVS1,59.7,58.0,5.8,5.83,3.47
+Diamond 223,1.09,,I,VS2,62.0,57.0,6.64,6.58,
+Diamond 224,2.41,,I,SI2,57.7,61.0,8.87,8.83,5.11
+Diamond 225,1.14,Premium,,SI2,59.2,61.0,6.84,6.82,4.04
+Diamond 226,0.3,Ideal,,SI1,61.6,57.0,4.28,4.32,2.65
+Diamond 227,0.39,Ideal,H,SI1,61.9,55.7,4.66,4.71,2.9
+Diamond 228,0.34,Premium,E,SI2,61.7,,4.51,4.47,2.77
+Diamond 229,0.53,Premium,D,VS2,62.4,59.0,5.14,5.18,3.22
+Diamond 230,1.01,Good,E,VVS1,63.1,57.0,6.36,6.39,4.02
+Diamond 231,0.26,Very Good,E,VS1,,59.0,4.09,4.12,2.49
+Diamond 232,0.74,Good,H,VS2,57.5,57.0,5.94,6.01,3.44
+Diamond 233,0.56,Premium,F,VS1,58.2,60.0,5.41,5.38,3.14
+Diamond 234,1.21,,D,SI1,63.0,57.0,6.82,6.76,4.28
+Diamond 235,0.38,Ideal,G,VVS2,60.7,,4.7,4.73,2.86
+Diamond 236,1.07,Ideal,G,SI2,60.8,57.0,6.62,6.6,4.02
+Diamond 237,,Very Good,H,VS2,58.1,62.0,6.72,6.74,3.91
+Diamond 238,2.26,Very Good,H,SI2,63.1,58.0,8.3,8.22,5.21
+Diamond 239,1.0,Very Good,H,SI2,60.2,61.0,6.44,6.48,3.89
+Diamond 240,0.56,Premium,G,VVS1,59.7,59.0,5.41,5.35,3.21
+Diamond 241,0.9,Very Good,H,,62.7,59.0,6.1,6.15,3.84
+Diamond 242,0.59,Ideal,G,VS2,62.9,56.0,5.35,5.33,3.36
+Diamond 243,0.31,Ideal,,VS2,61.4,54.0,4.33,4.4,2.68
+Diamond 244,1.0,Good,E,SI1,63.8,55.0,,6.31,4.03
+Diamond 245,0.4,Premium,I,VVS1,62.7,59.0,4.71,4.67,2.94
+Diamond 246,0.31,Ideal,G,IF,61.0,57.0,4.36,4.39,2.67
+Diamond 247,0.41,Good,E,SI1,63.6,56.0,4.73,4.7,3.0
+Diamond 248,0.74,Ideal,D,VS2,61.4,,5.8,5.83,3.57
+Diamond 249,1.0,Premium,E,I1,,61.0,6.41,6.37,3.89
+Diamond 250,0.53,Ideal,G,SI1,62.4,55.0,5.21,5.18,3.24
+Diamond 251,1.01,,E,SI1,64.2,59.0,6.27,6.19,4.0
+Diamond 252,0.5,Ideal,E,SI1,61.3,56.2,5.12,5.14,3.15
+Diamond 253,0.3,Ideal,F,VS1,62.3,53.8,4.3,,2.69
+Diamond 254,0.3,Premium,D,VS2,60.6,58.0,4.32,4.36,2.63
+Diamond 255,1.51,Very Good,I,SI2,60.6,60.2,7.32,7.37,4.45
+Diamond 256,0.3,Ideal,F,VS1,61.8,55.0,4.32,4.36,2.68
+Diamond 257,1.51,Good,G,IF,62.8,60.0,7.18,7.24,4.53
+Diamond 258,1.5,Ideal,F,VS2,61.7,54.0,7.28,7.31,4.5
+Diamond 259,1.01,Fair,H,SI1,,57.0,6.33,6.23,4.1
+Diamond 260,0.38,Premium,F,VS1,62.7,57.0,4.71,4.64,2.93
+Diamond 261,0.39,Ideal,E,VS1,62.3,54.4,4.66,4.69,2.91
+Diamond 262,1.28,Ideal,G,SI2,61.8,,6.95,6.99,4.31
+Diamond 263,1.23,Ideal,H,VS2,59.0,57.0,7.05,6.99,4.14
+Diamond 264,1.22,Very Good,J,SI2,62.6,58.0,6.78,6.84,4.26
+Diamond 265,0.75,Premium,F,SI1,61.1,,5.86,5.79,3.56
+Diamond 266,,Ideal,J,SI2,61.9,56.0,6.67,6.71,4.14
+Diamond 267,0.5,Ideal,E,VS2,61.8,55.0,5.11,5.06,3.14
+Diamond 268,1.23,Very Good,G,VVS1,61.3,57.0,6.88,6.96,4.24
+Diamond 269,1.21,Premium,E,SI1,62.6,58.0,6.79,6.82,4.26
+Diamond 270,1.25,Premium,G,VVS1,62.0,58.0,6.96,6.87,4.29
+Diamond 271,0.32,Premium,,VS1,61.6,59.0,4.37,,2.7
+Diamond 272,0.9,Good,F,SI1,63.1,,6.12,6.15,3.87
+Diamond 273,0.29,Very Good,,VS1,62.1,59.0,4.22,4.25,2.63
+Diamond 274,0.93,Ideal,H,VS1,61.8,57.0,6.23,6.27,3.86
+Diamond 275,1.04,Ideal,I,SI1,61.4,55.0,6.5,6.59,4.02
+Diamond 276,1.21,Very Good,H,VS1,60.4,59.0,6.88,6.97,4.18
+Diamond 277,0.3,,H,VS2,61.9,55.0,4.28,4.31,2.66
+Diamond 278,0.51,Very Good,E,,,58.0,,5.14,3.14
+Diamond 279,1.5,Premium,F,SI1,62.1,60.0,7.32,7.27,4.53
+Diamond 280,0.31,Premium,I,VVS1,62.2,60.0,4.32,4.3,2.68
+Diamond 281,0.51,Premium,F,SI1,62.7,62.0,5.09,4.96,3.15
+Diamond 282,0.85,Ideal,G,SI1,60.4,56.0,6.26,6.17,3.75
+Diamond 283,0.36,Premium,F,SI1,61.9,59.0,4.54,4.51,2.8
+Diamond 284,0.52,Very Good,E,SI2,62.6,58.0,5.05,5.17,3.2
+Diamond 285,0.3,Premium,H,SI2,61.9,60.0,4.27,,2.65
+Diamond 286,0.3,Ideal,E,VVS2,61.6,58.0,4.28,4.33,2.65
+Diamond 287,0.38,Premium,E,VS1,61.5,58.0,4.69,4.64,2.87
+Diamond 288,1.0,Premium,F,SI1,60.3,58.0,6.47,6.43,3.89
+Diamond 289,0.55,Very Good,D,SI2,63.2,56.0,5.24,5.21,3.3
+Diamond 290,1.74,Ideal,E,SI1,62.2,56.0,7.72,7.67,4.79
+Diamond 291,0.73,,I,I1,66.1,58.0,5.63,5.5,
+Diamond 292,1.6,Very Good,H,SI1,63.1,58.0,,7.39,4.68
+Diamond 293,0.4,Very Good,E,SI1,62.2,56.0,4.71,4.74,2.94
+Diamond 294,1.7,Premium,E,VS2,62.9,58.0,7.57,7.54,4.75
+Diamond 295,0.8,Premium,J,SI2,61.4,57.0,5.99,5.93,3.66
+Diamond 296,0.55,Ideal,D,SI2,60.9,57.0,5.26,5.29,3.21
+Diamond 297,0.31,Ideal,J,VVS1,62.4,54.0,4.32,4.35,2.7
+Diamond 298,0.7,Good,H,SI1,63.8,58.0,5.66,5.59,3.59
+Diamond 299,2.33,Good,G,SI2,63.9,60.0,8.37,8.3,5.32
+Diamond 300,2.01,Very Good,I,,62.8,60.0,7.99,8.04,5.03
+Diamond 301,1.21,Ideal,I,VS1,61.5,58.0,6.84,6.88,
+Diamond 302,0.51,Ideal,,VS1,61.5,56.0,5.11,5.16,3.16
+Diamond 303,0.44,Very Good,F,SI2,62.8,60.0,4.82,4.86,3.04
+Diamond 304,1.75,Good,D,SI1,63.8,57.0,,7.53,4.84
+Diamond 305,0.33,Premium,E,VVS1,59.7,58.0,4.52,4.49,2.69
+Diamond 306,0.44,Ideal,I,VVS1,61.2,55.0,4.92,4.95,3.02
+Diamond 307,0.72,Very Good,I,SI2,63.2,62.0,5.71,,3.59
+Diamond 308,1.0,Good,E,SI1,60.4,61.0,6.37,6.44,3.87
+Diamond 309,,,D,VS2,,54.0,4.36,4.34,2.7
+Diamond 310,1.06,Ideal,E,SI1,61.6,,6.55,6.59,4.05
+Diamond 311,0.51,Ideal,F,VS1,61.8,55.0,5.13,5.16,3.18
+Diamond 312,0.24,Very Good,G,,62.0,56.0,4.0,4.03,2.49
+Diamond 313,0.4,Very Good,I,VS1,61.7,57.0,4.71,4.73,2.91
+Diamond 314,0.33,Premium,G,VVS2,,60.0,4.55,4.52,2.7
+Diamond 315,0.92,Premium,E,SI1,62.1,58.0,6.22,6.15,3.84
+Diamond 316,1.82,Very Good,J,VS1,62.2,56.0,7.83,7.96,4.91
+Diamond 317,1.03,Ideal,D,SI1,62.2,56.0,6.48,6.45,4.02
+Diamond 318,0.36,Ideal,F,VS1,61.5,55.0,4.57,4.61,2.82
+Diamond 319,,Ideal,D,SI1,61.9,52.0,7.24,7.25,4.48
+Diamond 320,1.65,Ideal,J,SI1,62.2,54.0,7.52,7.59,4.7
+Diamond 321,1.02,Premium,H,SI2,61.3,57.0,6.51,6.45,3.97
+Diamond 322,0.42,Very Good,D,SI1,60.2,58.0,4.85,4.89,2.93
+Diamond 323,0.62,Premium,G,SI1,59.6,58.0,5.63,5.56,3.34
+Diamond 324,1.43,Premium,D,VS2,62.6,59.0,7.19,7.21,4.51
+Diamond 325,0.7,Ideal,G,SI2,61.8,56.0,5.66,5.6,3.48
+Diamond 326,0.91,Ideal,E,SI1,60.8,57.0,,6.29,3.82
+Diamond 327,1.55,Ideal,H,IF,61.4,57.0,7.47,7.42,4.57
+Diamond 328,0.36,Ideal,D,VVS2,62.0,54.0,4.57,4.63,2.85
+Diamond 329,0.3,Ideal,F,IF,62.3,57.0,4.29,4.31,2.68
+Diamond 330,1.04,Premium,G,SI2,62.9,58.0,6.47,,4.06
+Diamond 331,0.31,Ideal,D,SI1,61.8,57.0,4.33,4.37,2.69
+Diamond 332,1.01,Very Good,E,VS2,63.3,56.0,6.34,6.37,4.02
+Diamond 333,1.71,Premium,G,VS1,62.3,58.0,7.61,7.65,4.75
+Diamond 334,0.36,Ideal,D,SI1,61.2,,4.59,4.63,2.82
+Diamond 335,1.25,Premium,J,VS1,62.0,58.0,6.89,6.92,4.28
+Diamond 336,1.14,Good,G,VS2,63.2,58.0,6.63,6.67,4.2
+Diamond 337,1.01,Ideal,G,VS2,62.5,57.0,6.43,6.4,4.01
+Diamond 338,0.5,Ideal,J,VS2,62.5,53.0,5.09,5.12,3.19
+Diamond 339,1.0,,F,SI2,60.2,58.0,,6.42,3.88
+Diamond 340,0.8,Very Good,F,SI1,63.9,,5.84,,3.74
+Diamond 341,0.3,Ideal,G,VVS1,62.0,58.0,4.27,4.31,2.66
+Diamond 342,0.3,Ideal,F,VS2,61.8,57.0,4.31,4.33,2.67
+Diamond 343,1.0,Premium,H,SI2,61.2,59.0,6.38,6.42,3.92
+Diamond 344,0.31,Ideal,E,VVS2,61.9,,4.38,4.41,2.72
+Diamond 345,0.32,Ideal,G,VS1,61.9,55.0,4.43,4.39,2.73
+Diamond 346,1.02,Ideal,F,SI2,61.6,56.0,6.52,6.49,4.01
+Diamond 347,1.05,Premium,F,SI1,60.3,60.0,6.66,6.54,3.98
+Diamond 348,1.22,Ideal,J,SI1,62.3,55.0,,6.83,4.28
+Diamond 349,0.43,Premium,F,SI1,61.6,59.0,4.87,4.83,2.99
+Diamond 350,0.78,Ideal,D,VS1,62.1,55.0,5.9,,3.68
+Diamond 351,1.51,Good,G,VVS1,57.9,62.0,7.54,7.53,4.36
+Diamond 352,0.9,Good,G,VS2,60.4,61.0,6.23,6.32,3.79
+Diamond 353,0.71,Ideal,H,VS1,60.3,59.0,5.75,5.79,3.48
+Diamond 354,0.43,Ideal,G,SI1,61.5,,4.84,4.87,2.98
+Diamond 355,0.3,Ideal,E,VVS2,61.8,56.0,4.33,4.35,2.68
+Diamond 356,0.3,Very Good,I,SI1,62.5,57.0,4.27,4.3,2.68
+Diamond 357,1.07,Ideal,H,VS1,61.0,57.0,6.59,6.63,
+Diamond 358,0.32,Ideal,D,SI1,60.8,57.0,4.44,4.41,2.69
+Diamond 359,0.52,Very Good,D,VS2,60.6,56.0,5.22,5.25,3.17
+Diamond 360,0.75,Good,F,I1,64.0,59.0,5.78,5.62,3.66
+Diamond 361,0.51,Ideal,G,VVS2,61.3,57.0,5.15,5.12,3.15
+Diamond 362,1.05,Premium,,IF,,60.0,6.57,6.59,3.99
+Diamond 363,2.17,Very Good,J,SI2,60.8,59.0,,8.41,5.1
+Diamond 364,0.32,Ideal,G,VVS1,61.1,55.0,4.46,,2.73
+Diamond 365,1.0,Premium,H,VS2,58.4,60.0,6.36,6.3,3.7
+Diamond 366,0.36,Premium,I,VS1,60.3,60.0,4.64,4.58,2.78
+Diamond 367,0.41,Ideal,F,VVS2,61.7,57.0,4.8,4.73,2.94
+Diamond 368,0.38,Very Good,F,SI2,61.2,57.0,4.67,4.71,2.87
+Diamond 369,0.32,Very Good,,VS2,62.9,56.0,4.37,4.4,2.76
+Diamond 370,1.07,Very Good,G,VS1,58.6,60.0,6.65,6.76,3.93
+Diamond 371,2.02,Very Good,F,SI1,62.7,59.0,7.97,8.03,5.02
+Diamond 372,,Good,H,SI2,63.8,56.0,,4.36,2.79
+Diamond 373,0.56,Ideal,E,VVS2,61.0,56.0,5.32,5.36,3.26
+Diamond 374,0.43,Good,D,VS2,59.9,61.0,4.84,4.88,2.91
+Diamond 375,0.58,,G,VVS2,62.0,57.0,,5.34,3.31
+Diamond 376,0.71,Ideal,I,VVS2,60.4,57.0,5.78,5.81,3.5
+Diamond 377,0.5,Premium,I,VVS1,62.8,61.0,5.05,4.98,3.15
+Diamond 378,0.52,Very Good,E,SI2,62.6,58.0,5.11,5.14,3.21
+Diamond 379,1.01,Premium,G,SI1,59.8,58.0,6.54,6.58,3.92
+Diamond 380,1.1,Very Good,H,SI1,,58.0,,6.61,4.1
+Diamond 381,0.34,Premium,D,SI1,60.2,60.0,4.54,4.5,
+Diamond 382,0.38,Premium,D,SI1,60.7,60.0,4.63,4.69,2.83
+Diamond 383,0.91,Good,F,VVS2,62.6,61.0,6.12,6.19,3.85
+Diamond 384,0.93,Premium,F,SI2,59.5,60.0,6.39,6.36,3.79
+Diamond 385,0.9,Very Good,,VS2,61.8,56.0,6.18,6.25,3.84
+Diamond 386,0.52,Ideal,,VS2,61.9,57.0,5.17,5.14,3.19
+Diamond 387,1.53,Ideal,I,SI2,62.4,58.0,,7.37,4.58
+Diamond 388,0.71,Ideal,E,,62.4,56.0,5.75,5.7,3.57
+Diamond 389,0.7,Premium,H,VVS2,61.0,57.0,5.76,5.72,3.5
+Diamond 390,,Premium,E,VVS1,60.6,58.0,4.2,4.18,2.54
+Diamond 391,0.57,Ideal,I,VS1,61.6,56.0,5.33,5.35,
+Diamond 392,0.72,Ideal,F,VS2,61.1,56.0,5.92,5.8,
+Diamond 393,0.35,Ideal,F,VS2,61.4,56.0,4.53,4.56,2.79
+Diamond 394,1.51,Very Good,E,VVS2,,61.0,,7.4,4.44
+Diamond 395,0.59,Very Good,E,SI2,63.8,57.0,5.31,5.34,3.4
+Diamond 396,0.8,Ideal,F,SI2,61.4,57.0,5.96,6.0,3.67
+Diamond 397,0.57,Premium,G,VVS2,60.2,60.0,5.44,5.36,3.25
+Diamond 398,0.38,Ideal,H,IF,60.0,60.0,4.71,4.76,2.84
+Diamond 399,0.65,Ideal,H,VVS2,61.6,58.0,5.56,5.6,3.44
+Diamond 400,3.01,Fair,I,SI2,65.8,56.0,8.99,8.94,5.9
+Diamond 401,0.53,Ideal,G,VVS2,60.4,59.0,5.26,,3.19
+Diamond 402,0.73,Ideal,I,SI1,62.0,57.0,5.74,5.77,3.56
+Diamond 403,0.5,Fair,G,VS1,65.7,63.0,4.97,4.87,3.23
+Diamond 404,1.06,Ideal,G,VVS2,61.7,56.0,6.59,6.56,4.06
+Diamond 405,0.59,Ideal,G,VS1,62.1,55.0,5.35,5.4,3.34
+Diamond 406,0.3,Ideal,E,SI1,62.3,57.0,4.28,4.32,2.68
+Diamond 407,1.51,Premium,I,VS2,60.9,60.0,7.46,7.33,4.5
+Diamond 408,1.0,Very Good,E,SI2,62.5,55.0,6.38,6.41,4.0
+Diamond 409,0.9,Very Good,H,,63.0,62.0,6.09,6.0,3.81
+Diamond 410,0.9,Good,I,VVS1,63.6,58.0,6.1,6.14,3.89
+Diamond 411,0.8,Premium,H,VS1,62.0,60.0,,,3.65
+Diamond 412,0.28,Ideal,H,VS1,62.2,54.0,4.18,,2.61
+Diamond 413,0.51,Ideal,G,VS1,62.0,56.0,5.06,5.16,3.17
+Diamond 414,0.27,Very Good,E,VS1,63.8,60.0,4.03,4.09,2.59
+Diamond 415,0.42,Ideal,E,VVS2,62.3,55.0,4.81,4.76,2.98
+Diamond 416,0.72,Very Good,,SI1,,54.0,5.72,5.76,
+Diamond 417,1.55,Very Good,G,VS2,63.1,57.0,7.36,7.31,4.63
+Diamond 418,1.0,Ideal,G,VS2,62.1,57.0,6.42,6.37,3.97
+Diamond 419,,Premium,F,VS2,62.7,58.0,6.37,6.3,3.97
+Diamond 420,2.0,Very Good,F,SI1,63.6,58.0,7.91,7.98,5.05
+Diamond 421,0.3,Ideal,H,SI1,62.1,55.0,4.3,4.33,2.68
+Diamond 422,0.75,Good,G,SI2,63.9,62.0,5.66,5.61,3.6
+Diamond 423,0.7,Ideal,E,SI1,62.4,55.0,5.67,5.7,3.55
+Diamond 424,0.54,Ideal,D,VS2,60.0,56.0,5.39,5.28,3.2
+Diamond 425,0.62,Fair,F,VVS2,57.1,60.0,5.65,,
+Diamond 426,0.76,,E,VVS2,60.6,59.0,5.94,5.85,3.57
+Diamond 427,0.52,Very Good,,SI2,63.1,56.0,5.12,5.08,3.22
+Diamond 428,1.01,Ideal,G,VS1,,57.0,6.45,6.4,3.97
+Diamond 429,0.9,Ideal,F,SI2,62.4,55.0,6.17,6.2,3.86
+Diamond 430,0.32,Ideal,E,VS1,59.9,55.0,4.46,4.49,2.68
+Diamond 431,0.43,Premium,D,VS2,59.7,59.0,4.89,4.93,2.93
+Diamond 432,,Good,H,SI2,64.1,58.0,5.68,5.65,3.63
+Diamond 433,,Good,D,SI1,63.8,58.0,6.13,6.09,3.9
+Diamond 434,0.72,Very Good,E,VVS2,62.0,58.0,5.71,5.74,3.55
+Diamond 435,1.01,Ideal,E,SI2,62.0,56.0,6.46,6.42,3.99
+Diamond 436,1.25,Ideal,F,VS1,61.7,56.0,6.93,,4.27
+Diamond 437,1.09,Ideal,H,SI1,61.9,57.0,6.58,6.63,
+Diamond 438,0.26,Very Good,E,IF,58.7,63.0,4.19,4.23,2.47
+Diamond 439,0.77,Premium,D,VS2,61.8,58.0,5.84,5.81,
+Diamond 440,1.04,Very Good,,SI2,63.2,58.0,6.39,6.34,4.02
+Diamond 441,1.53,Ideal,F,SI1,60.3,,7.52,7.45,4.51
+Diamond 442,1.01,Fair,J,VS2,65.8,55.0,6.29,6.24,4.12
+Diamond 443,0.37,Very Good,G,VS1,61.5,58.0,4.57,,2.82
+Diamond 444,,,E,VVS1,58.7,66.0,5.34,5.43,3.16
+Diamond 445,0.7,Ideal,H,VS2,61.2,56.0,5.72,5.75,3.51
+Diamond 446,,Premium,D,SI1,60.4,59.0,4.62,4.68,2.81
+Diamond 447,0.53,Ideal,D,VS2,61.2,57.0,5.2,5.26,3.2
+Diamond 448,0.27,,E,VVS2,62.2,55.0,4.17,4.12,2.58
+Diamond 449,0.3,Premium,E,VS2,61.9,59.0,4.29,4.33,2.67
+Diamond 450,0.51,Ideal,F,VS2,61.7,56.0,5.13,5.15,3.17
+Diamond 451,1.63,Very Good,E,VS2,61.8,58.0,7.49,7.57,4.65
+Diamond 452,1.02,Ideal,G,VS1,61.3,57.0,6.48,6.51,3.98
+Diamond 453,2.01,Very Good,I,VVS2,,58.0,7.92,7.82,5.0
+Diamond 454,1.2,Very Good,F,VS1,62.9,57.0,6.73,6.78,4.25
+Diamond 455,0.46,Very Good,E,VS1,62.9,52.0,4.9,4.95,3.1
+Diamond 456,0.33,Very Good,G,SI2,60.0,56.0,4.52,4.55,2.73
+Diamond 457,1.51,Premium,H,SI1,60.3,62.0,7.54,7.41,4.51
+Diamond 458,0.56,Ideal,G,VS2,62.0,,,,3.28
+Diamond 459,2.32,Ideal,H,SI1,62.6,57.0,8.46,8.52,5.32
+Diamond 460,1.57,Ideal,J,VS1,62.1,,7.46,7.49,4.64
+Diamond 461,0.4,Good,D,,63.1,56.0,4.65,4.67,2.94
+Diamond 462,0.38,Ideal,I,VVS2,62.0,54.5,4.66,4.69,2.9
+Diamond 463,,Good,G,SI2,62.8,61.0,6.31,6.37,3.98
+Diamond 464,0.27,Ideal,I,VVS2,61.2,56.0,4.18,4.2,2.56
+Diamond 465,1.07,Ideal,D,VVS2,61.3,,6.55,6.64,
+Diamond 466,1.62,,E,SI2,61.8,59.0,7.55,7.52,4.66
+Diamond 467,0.41,,E,VVS1,64.1,55.0,4.71,4.68,3.01
+Diamond 468,0.33,Ideal,E,VVS2,60.7,55.0,4.49,4.5,2.73
+Diamond 469,,Very Good,H,,61.3,60.0,5.08,5.17,3.14
+Diamond 470,0.58,Ideal,E,VVS2,62.1,56.0,5.33,5.36,3.32
+Diamond 471,0.42,,G,,61.7,55.0,4.78,4.84,2.97
+Diamond 472,2.02,Very Good,H,SI2,58.7,62.0,8.23,8.2,4.82
+Diamond 473,0.72,Ideal,D,SI2,61.2,57.0,5.76,,3.54
+Diamond 474,0.74,Very Good,E,SI1,61.0,58.0,5.82,5.85,3.56
+Diamond 475,0.31,Ideal,H,VVS2,62.2,55.0,4.36,4.35,2.71
+Diamond 476,0.54,Ideal,F,VVS2,61.0,,5.28,5.3,3.23
+Diamond 477,0.3,Ideal,F,VVS1,61.2,55.0,4.33,4.36,2.66
+Diamond 478,0.58,Ideal,D,SI2,62.7,56.0,5.3,5.32,3.33
+Diamond 479,0.27,Very Good,E,SI1,61.2,57.0,4.2,4.23,2.58
+Diamond 480,0.53,Premium,G,VS1,62.4,58.0,5.2,5.16,3.23
+Diamond 481,0.86,Ideal,D,SI1,62.8,56.0,6.05,6.08,3.81
+Diamond 482,1.35,Ideal,J,VS2,61.8,,7.1,7.14,4.4
+Diamond 483,1.1,Premium,,SI2,62.8,55.0,6.68,6.57,4.16
+Diamond 484,0.7,Ideal,G,SI2,61.3,58.0,5.67,5.69,3.48
+Diamond 485,0.31,Very Good,G,VS1,62.7,54.0,4.35,4.36,2.73
+Diamond 486,0.7,Good,E,VS2,60.3,60.0,5.69,5.75,3.45
+Diamond 487,0.72,Ideal,,VVS1,61.5,57.0,5.74,5.76,3.54
+Diamond 488,0.72,Very Good,E,SI1,,58.0,5.74,5.78,3.55
+Diamond 489,0.62,Good,D,SI2,,56.0,5.42,5.39,3.46
+Diamond 490,2.0,Premium,J,VS2,61.5,59.0,8.06,8.11,4.97
+Diamond 491,1.03,Ideal,F,,61.5,56.0,6.47,6.53,4.0
+Diamond 492,1.53,Very Good,E,SI2,59.3,58.0,7.54,7.57,4.48
+Diamond 493,0.94,Very Good,H,SI2,61.9,57.0,6.21,6.29,3.87
+Diamond 494,0.31,Ideal,D,VS2,60.4,56.0,4.39,4.42,2.66
+Diamond 495,2.01,Very Good,,SI2,62.9,55.0,,8.09,5.07
+Diamond 496,0.56,Premium,E,VVS2,61.5,,5.3,5.33,3.27
+Diamond 497,0.76,Ideal,F,VS2,62.6,56.0,5.82,5.78,3.63
+Diamond 498,1.29,Premium,G,VS2,58.7,58.0,7.27,7.11,
+Diamond 499,1.51,Premium,I,SI1,62.2,60.0,7.3,7.23,4.52
+Diamond 500,0.7,Very Good,E,SI1,63.2,61.0,5.61,5.49,3.51
